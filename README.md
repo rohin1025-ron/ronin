@@ -26,6 +26,6 @@ ClipWhiz.AI is a YouTube video processing tool that downloads videos, extracts a
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/yourusername/clipwhiz.ai.git
+git clone https://github.com/rohin1025-ron/clipwhiz.ai.git
 cd clipwhiz.ai
 pip install -r requirements.txt
